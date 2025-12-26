@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "HOT",
+  "base_artist": "LE SSERAFIM",
+  "createdAt": "2025-12-26T11:27:04.610943Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Long Hot Summer",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/01_Long_Hot_Summer_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You Took The Words Right Out of My Mouth (Hot Summer Night)",
+      "artist": "Meat Loaf",
+      "has_synced": true,
+      "path": "select/02_You_Took_The_Words_Right_Out_of_My_Mouth_(Hot_Summer_Night)_Meat_Loaf.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Black Hot Soup",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Black_Hot_Soup_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hot Water",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_Hot_Water_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hot Water",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/05_Hot_Water_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hot Wax",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/06_Hot_Wax_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hot Wax",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/07_Hot_Wax_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hope It's Hot Out",
+      "artist": "Kyle Clark",
+      "has_synced": true,
+      "path": "select/08_Hope_It's_Hot_Out_Kyle_Clark.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hope It's Hot Out",
+      "artist": "Kyle Clark",
+      "has_synced": true,
+      "path": "select/09_Hope_It's_Hot_Out_Kyle_Clark.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hot Mama",
+      "artist": "Trace Adkins",
+      "has_synced": true,
+      "path": "select/10_Hot_Mama_Trace_Adkins.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hot Rod Lincoln",
+      "artist": "Commander Cody And His Lost Planet Airman",
+      "has_synced": false,
+      "path": "select/11_Hot_Rod_Lincoln_Commander_Cody_And_His_Lost_Planet_Airman.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hot Sauce",
+      "artist": "Breland",
+      "has_synced": true,
+      "path": "select/12_Hot_Sauce_Breland.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'll Take That As a Yes (The Hot Tub Song)",
+      "artist": "Phil Vassar",
+      "has_synced": true,
+      "path": "select/13_I'll_Take_That_As_a_Yes_(The_Hot_Tub_Song)_Phil_Vassar.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Louisiana Hot Sauce",
+      "artist": "Sammy Kershaw",
+      "has_synced": false,
+      "path": "select/14_Louisiana_Hot_Sauce_Sammy_Kershaw.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "When You're Hot, You're Hot",
+      "artist": "Jerry Reed",
+      "has_synced": false,
+      "path": "select/15_When_You're_Hot,_You're_Hot_Jerry_Reed.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hot",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/16_Hot_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hot Summer",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/17_Hot_Summer_f(x).lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hot Summer(Japanese Ver.)",
+      "artist": "f(x)",
+      "has_synced": false,
+      "path": "select/18_Hot_Summer(Japanese_Ver.)_f(x).txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Hot Water on Wool",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/19_Hot_Water_on_Wool_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HOT",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/pl_01_HOT_LE_SSERAFIM.txt"
+    }
+  ]
+}
